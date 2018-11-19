@@ -10,8 +10,9 @@ from bs4 import BeautifulSoup
 # GET API KEY #
 ###############
 
-api_keys = json.load(open("data/api-keys.json"))
-api_key = api_keys['songkick-api-key']
+if __name__ == "__main__":
+    api_keys = json.load(open("data/api-keys.json"))
+    api_key = api_keys['songkick-api-key']
 
 ###########################
 # DEFINE HELPER FUNCTIONS #

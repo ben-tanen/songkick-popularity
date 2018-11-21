@@ -74,11 +74,11 @@ for artist_ix in range(0, len(artists['artist'])):
     
     # fill in if only one results
     # else output results to do manually
-    if len(results2) == 1:
-        artists.iat[artist_ix, 1] = results2[0]['id']
+    if len(artist_results2) == 1:
+        artists.iat[artist_ix, 1] = artist_results2[0]['id']
     else:
         print("=== %s ===" % artist)
-        print(results2)
+        print(artist_results2)
 
 # stop until ids have been filled in
 input('Press any key once artist IDs filled in...')
@@ -105,6 +105,7 @@ for ix, row in artists.iterrows():
         all_events.append({
             'name': e['displayName'],
             'id': e['id'],
+            'artist': artist,
             'billing': [a['billing'] for a in e['performance'] if a['artist']['id'] == artist_id][0],
             'popularity': e['popularity'],
             'date': e['start']['date'],
@@ -147,4 +148,4 @@ for venue_id in venue_ids:
 
 # convert to df and export
 all_venues_df = pd.DataFrame(all_venues)
-all_venues_df.to_csv('data/venues.csv', index = False)
+# all_venues_df.to_csv('data/venues.csv', index = False)

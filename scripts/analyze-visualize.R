@@ -1,0 +1,46 @@
+
+# load package
+library(data.table)
+library(ggplot2)
+
+# go to data folder
+setwd("../data")
+
+# load data files
+artists <- data.table(read.csv('artists.csv'))
+venues <- data.table(read.csv('venues.csv'))
+concerts <- data.table(read.csv('concerts.csv'))
+concerts.bt <- data.table(read.csv('bt-concerts.csv'))
+
+# format data
+concerts$date <- as.Date(concerts$date, format = "%Y-%m-%d")
+concerts.bt$date <- as.Date(concerts.bt$date, format = "%d-%b-%y")
+
+# merge concerts and concerts.bt to flag bt concerts
+concerts.flagged <- merge(concerts, concerts.bt, by = c("date", "artist"), all.x = T)
+concerts.flagged$bt_concert <- ifelse(is.na(concerts.flagged$venue), 0, 1)
+concerts.flagged <- concerts.flagged[, -c("event", "venue", "venue.city", "venue.state")]
+
+# manually flag/deflag certain events
+concerts.flagged[id == 16626779]$bt_concert <- 0
+concerts.flagged[id == 27959704]$bt_concert <- 0
+concerts.flagged[id == 29435009]$bt_concert <- 0
+concerts.flagged[id == 33309979]$bt_concert <- 0
+concerts.flagged[id == 34511124]$bt_concert <- 0
+
+# concerts to figure out
+# the districts, 2/25/2014, fix: before they appear in the data
+# connor youngblood, 6/24/2014, fix: rerun data pull
+# you won't, 1/21/2015, fix: concert not in data
+# you won't, 12/5/2015, fix: concert not in data
+# creed bratton, 9/14/2018, fix: concert not in data
+# lief ..., 11/16/2018, rerun data pull
+
+# merge on capacity information
+concerts.w_capacity <- merge(concerts.flagged, venues[, c("id", "capacity")], by.x = "venue.id", by.y = "id", all.x = T)
+
+# calculate popularity_plus
+concerts.w_capacity[, popularity_plus := capacity * popularity]
+
+
+

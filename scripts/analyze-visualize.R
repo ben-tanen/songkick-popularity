@@ -42,5 +42,16 @@ concerts.w_capacity <- merge(concerts.flagged, venues[, c("id", "capacity")], by
 # calculate popularity_plus
 concerts.w_capacity[, popularity_plus := capacity * popularity]
 
+# plot popularity_plus
+ggplot(concerts.w_capacity[artist == "Lucy Dacus" & !is.na(popularity_plus)], aes(x = date, y = capacity)) + geom_line()
+
+# aggregate to month/week
+concerts.w_capacity[, week := as.Date(paste(year(date), 1, 1, sep = "-")) + 7 * (week(date) - 1)]
+concerts.w_capacity[, month := as.Date(paste(year(date), month(date), 1, sep = "-"))]
+concerts.w_capacity[, quarter := as.Date(paste(year(date), 1, 1, sep = "-")) + 90 * (quarter(date) - 1)]
+concerts.agg <- concerts.w_capacity[, .(capacity = mean(capacity, na.rm = T), popularity_plus = mean(popularity_plus, na.rm = T)),
+                                    by = list(quarter, artist)]
+
+ggplot(concerts.agg[artist == "Maggie Rogers" & !is.na(capacity)], aes(x = quarter, y = capacity)) + geom_line()
 
 

@@ -2,12 +2,14 @@
 # LOAD PACKAGES #
 #################
 
-import requests, json
+import os, requests, json, math
 import pandas as pd
 
 ###############
 # GET API KEY #
 ###############
+
+os.chdir("/Users/ben-tanen/Desktop/Projects/songkick-popularity/")
 
 api_keys = json.load(open("data/api-keys.json"))
 api_key = api_keys['songkick-api-key']
@@ -62,9 +64,16 @@ def get_venue(venue_id):
 # pull in artist names without IDs
 artists = pd.read_csv('data/artists.csv', encoding = 'latin1')
 
-for artist_ix in range(0, len(artists['artist'])):
-    artist = artists.iat[artist_ix, 0]
+id_results = [ ]
 
+for ix, row in artists.iterrows():
+    artist = row['artist']
+    artist_id = row['id']
+
+    # skip artists with ids already
+    if not math.isnan(artist_id):
+        continue
+    
     print(">>> pulling search results for '%s'" % artist)
 
     # query search results
@@ -72,13 +81,7 @@ for artist_ix in range(0, len(artists['artist'])):
     artist_results2 = [{'name': r['displayName'], 'id': r['id']} for \
                        r in artist_results1['resultsPage']['results']['artist']]
     
-    # fill in if only one results
-    # else output results to do manually
-    if len(artist_results2) == 1:
-        artists.iat[artist_ix, 1] = artist_results2[0]['id']
-    else:
-        print("=== %s ===" % artist)
-        print(artist_results2)
+    id_results.extend(artist_results2)
 
 # stop until ids have been filled in
 input('Press any key once artist IDs filled in...')
@@ -96,7 +99,7 @@ all_events = [ ]
 for ix, row in artists.iterrows():
     [artist, artist_id] = [row['artist'], row['id']]
 
-    print(">>> pulling event results for %s" % artist)
+    print(">>> pulling event results for %s (%d)" % (artist, ix))
 
     event_results = get_artist_events(artist_id)
 
@@ -148,4 +151,4 @@ for venue_id in venue_ids:
 
 # convert to df and export
 all_venues_df = pd.DataFrame(all_venues)
-# all_venues_df.to_csv('data/venues.csv', index = False)
+all_venues_df.to_csv('data/venues.csv', index = False)

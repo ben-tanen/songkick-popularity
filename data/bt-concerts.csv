@@ -1,104 +1,173 @@
-artist,event,date,venue,venue-city,venue-state
-Muse,,24-Oct-10,The Prudential Center,Newark,NJ
-The Script,,4-Jun-11,Rumsey Playfield,New York,NY
-The Fray,,12-Apr-12,Radio City Music Hall,New York,NY
-Coldplay,,8-Aug-12,IZOD Center,East Rutherford,NJ
-Coldplay,,30-Dec-12,Barclays Center,Brooklyn,NY
-Mumford & Sons,,6-Feb-13,Barclays Center,Brooklyn,NY
-Ben Howard,,6-Feb-13,Barclays Center,Brooklyn,NY
-Matt & Kim,Firefly Music Festival,21-Jun-13,The Woodlands of Dover International Speedway,Dover,DE
-Dispatch,Firefly Music Festival,21-Jun-13,The Woodlands of Dover International Speedway,Dover,DE
-Passion Pit,Firefly Music Festival,21-Jun-13,The Woodlands of Dover International Speedway,Dover,DE
-Vampire Weekend,Firefly Music Festival,21-Jun-13,The Woodlands of Dover International Speedway,Dover,DE
-Foster the People,Firefly Music Festival,21-Jun-13,The Woodlands of Dover International Speedway,Dover,DE
-The Lumineers,,29-Jul-13,Terminal 5,New York,NY
-Gavin Degraw,MixFest 2013,14-Sep-13,DCR Hatch Memorial Shell,Boston,MA
-Backstreet Boys,MixFest 2013,14-Sep-13,DCR Hatch Memorial Shell,Boston,MA
-Of Monsters and Men,MixFest 2013,14-Sep-13,DCR Hatch Memorial Shell,Boston,MA
-Tom Brosseau,,25-Oct-13,Industry Lab,Cambridge,MA
-Sean Watkins,,25-Oct-13,Industry Lab,Cambridge,MA
-The Paper Kites,,9-Nov-13,Brighton Music Hall,Allston,MA
-Reuben and the Dark,,9-Nov-13,Brighton Music Hall,Allston,MA
-Grouplove,,15-Nov-13,Tufts Carzo Cage,Medford,MA
-Led Zeppelin 2,,18-Jan-14,Paradise Rock Club,Boston,MA
-Rhye,,20-Feb-14,Royale,Boston,MA
-White Denim,,25-Feb-14,The Sinclair,Cambridge,MA
-The Districts,,25-Feb-14,The Sinclair,Cambridge,MA
-Jesse Dee,,8-Mar-14,The Sinclair,Cambridge,MA
-The New Pornographers,Tufts Spring Fling 2014,26-Apr-14,Tufts President's Lawn,Medford,MA
-Flosstradamus,Tufts Spring Fling 2014,26-Apr-14,Tufts President's Lawn,Medford,MA
-Childish Gambino,Tufts Spring Fling 2014,26-Apr-14,Tufts President's Lawn,Medford,MA
-Bernhoft,,24-Jun-14,Bowery Ballroom,New York,NY
-Connor Youngblood,,24-Jun-14,Bowery Ballroom,New York,NY
-Shakey Graves,,25-Jun-14,Bowery Ballroom,New York,NY
-Wild Child,,25-Jun-14,Bowery Ballroom,New York,NY
-The Paper Kites,,16-Jul-14,Bowery Ballroom,New York,NY
-Future Islands,Boston Calling 2014,5-Sep-14,City Hall Plaza,Boston,MA
-Neutral Milk Hotel,Boston Calling 2014,5-Sep-14,City Hall Plaza,Boston,MA
-The National,Boston Calling 2014,5-Sep-14,City Hall Plaza,Boston,MA
-NEEDTOBREATHE,,26-Sep-14,House of Blues,Boston,MA
-The Oh Hellos,,26-Sep-14,House of Blues,Boston,MA
-Cold War Kids,,20-Oct-14,The Sinclair,Cambridge,MA
-Wild Child,,21-Jan-15,The Sinclair,Cambridge,MA
-You Won't,,21-Jan-15,The Sinclair,Cambridge,MA
-Pearl and the Beard,,21-Jan-15,The Sinclair,Cambridge,MA
-Ben Folds and yMusic,,25-Apr-15,The Sinclair,Cambridge,MA
-AWOLNATION,,25-Jun-15,House of Blues,Boston,MA
-Future Islands,,23-Jul-15,The Sinclair,Cambridge,MA
-Bad Rabbits,,23-Jul-15,The Sinclair,Cambridge,MA
-NEEDTOBREATHE,,8-Aug-15,Blue Hill Banks Pavilion,Boston,MA
-Switchfoot,,8-Aug-15,Blue Hill Banks Pavilion,Boston,MA
-Drew Holcomb and the Neighbors,,8-Aug-15,Blue Hill Banks Pavilion,Boston,MA
-Leon Bridges,,18-Oct-15,Royale,Boston,MA
-Kali Uchis,,18-Oct-15,Royale,Boston,MA
-Wild Child,,7-Nov-15,Royale,Boston,MA
-You Won't,Tufts Cage Rage 2015,5-Dec-15,Tufts Carzo Cage,Medford,MA
-Dan Croll,Tufts Cage Rage 2015,5-Dec-15,Tufts Carzo Cage,Medford,MA
-Lucius,Tufts Cage Rage 2015,5-Dec-15,Tufts Carzo Cage,Medford,MA
-Shaggy,Tufts Spring Fling 2016,1-May-16,Tufts President's Lawn,Medford,MA
-BORNS,Tufts Spring Fling 2016,1-May-16,Tufts President's Lawn,Medford,MA
-Matt & Kim,Tufts Spring Fling 2016,1-May-16,Tufts President's Lawn,Medford,MA
-The Lumineers,,25-May-16,Red Butte Garden,Salt Lake City,UT
-Sleepwalkers,,25-May-16,Red Butte Garden,Salt Lake City,UT
-SOAK,,25-May-16,Red Butte Garden,Salt Lake City,UT
-Leon Bridges,,26-May-16,The Depot,Salt Lake City,UT
-Lion Babe,,8-Jul-16,Brighton Music Hall,Boston,MA
-Coldplay,,30-Jul-16,Gillette Stadium,Foxborough,MA
-Alessia Cara,,30-Jul-16,Gillette Stadium,Foxborough,MA
-The Lumineers,,8-Sep-16,Blue Hill Banks Pavilion,Boston,MA
-BORNS,,8-Sep-16,Blue Hill Banks Pavilion,Boston,MA
-Rayland Baxter,,8-Sep-16,Blue Hill Banks Pavilion,Boston,MA
-Lake Street Dive,,7-Oct-16,Wang Theatre,Boston,MA
-NEEDTOBREATHE,,4-Nov-16,Agganis Arena,Boston,MA
-Mat Kearney,,4-Nov-16,Agganis Arena,Boston,MA
-Parachute,,4-Nov-16,Agganis Arena,Boston,MA
-Welshly Arms,,4-Nov-16,Agganis Arena,Boston,MA
-St. Paul and the Broken Bones,,5-Nov-16,Royale,Boston,MA
-Lake Street Dive,,29-Jul-17,The Capitol Theatre,Port Chester,NY
-Lawrence,,29-Jul-17,The Capitol Theatre,Port Chester,NY
-Alabama Shakes,,4-Aug-17,Blue Hill Banks Pavilion,Boston,MA
-The Districts,,7-Aug-17,The Sinclair,Cambridge,MA
-Gregory Alan Isakov,,10-Aug-17,Red Butte Garden,Salt Lake City,UT
-Blind Pilot,,10-Aug-17,Red Butte Garden,Salt Lake City,UT
-Future Islands,,9-Oct-17,Orpheum Theatre,Boston,MA
-The Rural Alberta Advantage,,2-Nov-17,The Sinclair,Cambridge,MA
-NEEDTOBREATHE,,3-Dec-17,Wilbur Theatre,Boston,MA
-Rhye,,28-Feb-18,Paradise Rock Club,Boston,MA
-Lucy Dacus,,11-Apr-18,The Sinclair,Cambridge,MA
-And The Kids,,11-Apr-18,The Sinclair,Cambridge,MA
-The Weepies,,19-Apr-18,Chevalier Theatre,Medford,MA
-Matt & Kim,,26-Apr-18,House of Blues,Boston,MA
-Tokyo Police Club,,26-Apr-18,House of Blues,Boston,MA
-The Districts,,2-May-18,Brighton Music Hall,Boston,MA
-Lake Street Dive,,4-May-18,The Sinclair,Cambridge,MA
-NEEDTOBREATHE,,18-Aug-18,Blue Hill Banks Pavilion,Boston,MA
-JOHNNYSWIM,,18-Aug-18,Blue Hill Banks Pavilion,Boston,MA
-Creed Bratton,,14-Sep-18,Middle East - Downstairs,Cambridge,MA
-Your Smith,,30-Sep-18,The Red Room at Cafe 939,Boston,MA
-White Denim,,9-Oct-18,Brighton Music Hall,Boston,MA
-Caroline Rose,,1-Nov-18,The Sinclair,Cambridge,MA
-And The Kids,,1-Nov-18,The Sinclair,Cambridge,MA
-Maggie Rogers,,6-Nov-18,Royale,Boston,MA
-Mallrat,,6-Nov-18,Royale,Boston,MA
-Gregory Alan Isakov,,16-Nov-18,Royale,Boston,MA
-Leif Vollebekk,,16-Nov-18,Royale,Boston,MA
+artist,event,date,venue,venue-city,venue-state,id,billing
+Muse,,10/24/10,The Prudential Center,Newark,NJ,5329176,headline
+The Script,,6/4/11,Rumsey Playfield,New York,NY,7838666,headline
+The Fray,,4/12/12,Radio City Music Hall,New York,NY,11666183,headline
+Coldplay,,8/8/12,IZOD Center,East Rutherford,NJ,11314368,headline
+Coldplay,,12/30/12,Barclays Center,Brooklyn,NY,14635019,headline
+Mumford & Sons,,2/6/13,Barclays Center,Brooklyn,NY,14572129,headline
+Ben Howard,,2/6/13,Barclays Center,Brooklyn,NY,14572129,support
+Matt & Kim,Firefly Music Festival,6/21/13,The Woodlands of Dover International Speedway,Dover,DE,13534479,headline
+Dispatch,Firefly Music Festival,6/21/13,The Woodlands of Dover International Speedway,Dover,DE,13534479,headline
+Passion Pit,Firefly Music Festival,6/21/13,The Woodlands of Dover International Speedway,Dover,DE,13534479,headline
+Vampire Weekend,Firefly Music Festival,6/21/13,The Woodlands of Dover International Speedway,Dover,DE,13534479,headline
+Foster the People,Firefly Music Festival,6/21/13,The Woodlands of Dover International Speedway,Dover,DE,13534479,headline
+The Lumineers,,7/29/13,Terminal 5,New York,NY,17195559,headline
+Gavin Degraw,MixFest 2013,9/14/13,DCR Hatch Memorial Shell,Boston,MA,39309156,headline
+Backstreet Boys,MixFest 2013,9/14/13,DCR Hatch Memorial Shell,Boston,MA,39309156,headline
+Of Monsters and Men,MixFest 2013,9/14/13,DCR Hatch Memorial Shell,Boston,MA,39309156,headline
+Tom Brosseau,,10/25/13,Industry Lab,Cambridge,MA,,headline
+Sean Watkins,,10/25/13,Industry Lab,Cambridge,MA,,headline
+The Paper Kites,,11/9/13,Brighton Music Hall,Allston,MA,17163224,headline
+Reuben and the Dark,,11/9/13,Brighton Music Hall,Allston,MA,17163224,support
+Grouplove,,11/15/13,Tufts Carzo Cage,Medford,MA,,headline
+Led Zeppelin 2,,1/18/14,Paradise Rock Club,Boston,MA,18615714,headline
+Rhye,,2/20/14,Royale,Boston,MA,,headline
+White Denim,,2/25/14,The Sinclair,Cambridge,MA,18574414,headline
+The Districts,,2/25/14,The Sinclair,Cambridge,MA,18574414,support
+Jesse Dee,,3/8/14,The Sinclair,Cambridge,MA,18929279,headline
+The New Pornographers,Tufts Spring Fling 2014,4/26/14,Tufts President's Lawn,Medford,MA,20373238,support
+Flosstradamus,Tufts Spring Fling 2014,4/26/14,Tufts President's Lawn,Medford,MA,20373238,support
+Childish Gambino,Tufts Spring Fling 2014,4/26/14,Tufts President's Lawn,Medford,MA,20373238,headline
+Bernhoft,,6/24/14,Bowery Ballroom,New York,NY,19810894,headline
+Connor Youngblood,,6/24/14,Bowery Ballroom,New York,NY,19810894,support
+Shakey Graves,,6/25/14,Bowery Ballroom,New York,NY,20161433,headline
+Wild Child,,6/25/14,Bowery Ballroom,New York,NY,20161433,headline
+The Paper Kites,,7/16/14,Bowery Ballroom,New York,NY,20313278,headline
+Future Islands,Boston Calling 2014,9/5/14,City Hall Plaza,Boston,MA,20136408,headline
+Neutral Milk Hotel,Boston Calling 2014,9/5/14,City Hall Plaza,Boston,MA,20136408,headline
+The National,Boston Calling 2014,9/5/14,City Hall Plaza,Boston,MA,20136408,headline
+NEEDTOBREATHE,,9/26/14,House of Blues,Boston,MA,20254303,headline
+The Oh Hellos,,9/26/14,House of Blues,Boston,MA,20254303,headline
+Cold War Kids,,10/20/14,The Sinclair,Cambridge,MA,21161813,headline
+Wild Child,,1/21/15,The Sinclair,Cambridge,MA,21943628,headline
+You Won't,,1/21/15,The Sinclair,Cambridge,MA,21943628,support
+Pearl and the Beard,,1/21/15,The Sinclair,Cambridge,MA,21943628,support
+Ben Folds,,4/25/15,The Sinclair,Cambridge,MA,23054603,headline
+AWOLNATION,,6/25/15,House of Blues,Boston,MA,23185378,headline
+Future Islands,,7/23/15,The Sinclair,Cambridge,MA,24373154,headline
+Bad Rabbits,,7/23/15,The Sinclair,Cambridge,MA,24373154,headline
+NEEDTOBREATHE,,8/8/15,Blue Hill Banks Pavilion,Boston,MA,22826873,headline
+Switchfoot,,8/8/15,Blue Hill Banks Pavilion,Boston,MA,22826873,headline
+Drew Holcomb and the Neighbors,,8/8/15,Blue Hill Banks Pavilion,Boston,MA,22826873,support
+Leon Bridges,,10/18/15,Royale,Boston,MA,24103269,headline
+Kali Uchis,,10/18/15,Royale,Boston,MA,24103269,support
+Wild Child,,11/7/15,Royale,Boston,MA,24281919,headline
+You Won't,Tufts Cage Rage 2015,12/5/15,Tufts Carzo Cage,Medford,MA,,support
+Dan Croll,Tufts Cage Rage 2015,12/5/15,Tufts Carzo Cage,Medford,MA,,support
+Lucius,Tufts Cage Rage 2015,12/5/15,Tufts Carzo Cage,Medford,MA,,headline
+Shaggy,Tufts Spring Fling 2016,5/1/16,Tufts President's Lawn,Medford,MA,,support
+BORNS,Tufts Spring Fling 2016,5/1/16,Tufts President's Lawn,Medford,MA,,support
+Matt & Kim,Tufts Spring Fling 2016,5/1/16,Tufts President's Lawn,Medford,MA,,headline
+The Lumineers,,5/25/16,Red Butte Garden,Salt Lake City,UT,26119628,headline
+Sleepwalkers,,5/25/16,Red Butte Garden,Salt Lake City,UT,26119628,support
+SOAK,,5/25/16,Red Butte Garden,Salt Lake City,UT,26119628,support
+Leon Bridges,,5/26/16,The Depot,Salt Lake City,UT,25150824,headline
+Lion Babe,,7/8/16,Brighton Music Hall,Boston,MA,26824429,headline
+Coldplay,,7/30/16,Gillette Stadium,Foxborough,MA,26033593,headline
+Alessia Cara,,7/30/16,Gillette Stadium,Foxborough,MA,26033593,support
+The Lumineers,,9/8/16,Blue Hill Banks Pavilion,Boston,MA,26663819,headline
+BORNS,,9/8/16,Blue Hill Banks Pavilion,Boston,MA,26663819,support
+Rayland Baxter,,9/8/16,Blue Hill Banks Pavilion,Boston,MA,26663819,support
+Lake Street Dive,,10/7/16,Wang Theatre,Boston,MA,26218414,headline
+NEEDTOBREATHE,,11/4/16,Agganis Arena,Boston,MA,26655574,headline
+Mat Kearney,,11/4/16,Agganis Arena,Boston,MA,26655574,support
+Parachute,,11/4/16,Agganis Arena,Boston,MA,26655574,support
+Welshly Arms,,11/4/16,Agganis Arena,Boston,MA,26655574,support
+St. Paul and the Broken Bones,,11/5/16,Royale,Boston,MA,27392019,headline
+Lake Street Dive,,7/29/17,The Capitol Theatre,Port Chester,NY,29856154,headline
+Lawrence,,7/29/17,The Capitol Theatre,Port Chester,NY,29856154,support
+Alabama Shakes,,8/4/17,Blue Hill Banks Pavilion,Boston,MA,29963924,headline
+The Districts,,8/7/17,The Sinclair,Cambridge,MA,29967034,headline
+Gregory Alan Isakov,,8/10/17,Red Butte Garden,Salt Lake City,UT,29856249,headline
+Blind Pilot,,8/10/17,Red Butte Garden,Salt Lake City,UT,29856249,support
+Future Islands,,10/9/17,Orpheum Theatre,Boston,MA,29941089,headline
+The Rural Alberta Advantage,,11/2/17,The Sinclair,Cambridge,MA,31016104,headline
+NEEDTOBREATHE,,12/3/17,Wilbur Theatre,Boston,MA,29964959,headline
+Rhye,,2/28/18,Paradise Rock Club,Boston,MA,31711184,headline
+Lucy Dacus,,4/11/18,The Sinclair,Cambridge,MA,32184779,headline
+And The Kids,,4/11/18,The Sinclair,Cambridge,MA,32184779,support
+The Weepies,,4/19/18,Chevalier Theatre,Medford,MA,31700669,headline
+Matt & Kim,,4/26/18,House of Blues,Boston,MA,32458694,headline
+Tokyo Police Club,,4/26/18,House of Blues,Boston,MA,32458694,support
+The Districts,,5/2/18,Brighton Music Hall,Boston,MA,32923274,headline
+Lake Street Dive,,5/4/18,The Sinclair,Cambridge,MA,32973789,headline
+NEEDTOBREATHE,,8/18/18,Blue Hill Banks Pavilion,Boston,MA,34381279,support
+JOHNNYSWIM,,8/18/18,Blue Hill Banks Pavilion,Boston,MA,34381279,headline
+Creed Bratton,,9/14/18,Middle East - Downstairs,Cambridge,MA,,headline
+Your Smith,,9/30/18,The Red Room at Cafe 939,Boston,MA,34806819,headline
+White Denim,,10/9/18,Brighton Music Hall,Boston,MA,33882159,headline
+Caroline Rose,,11/1/18,The Sinclair,Cambridge,MA,34889839,headline
+And The Kids,,11/1/18,The Sinclair,Cambridge,MA,34889839,support
+Maggie Rogers,,11/6/18,Royale,Boston,MA,34848974,headline
+Mallrat,,11/6/18,Royale,Boston,MA,34848974,support
+Gregory Alan Isakov,,11/16/18,Royale,Boston,MA,34586004,headline
+Leif Vollebekk,,11/16/18,Royale,Boston,MA,34586004,support
+Wild Child,,12/4/18,The Sinclair,Cambridge,MA,35290199,headline
+Lawrence,,12/11/18,The Sinclair,Cambridge,MA,34586059,headline
+Gang of Youths,,12/12/18,Brighton Music Hall,Boston,MA,35268904,headline
+Anderson .Paak,,2/23/19,Orpheum Theatre,Boston,MA,36225664,headline
+Bronze Radio Return,,2/26/19,The Sinclair,Cambridge,MA,35372494,headline
+St. Paul and the Broken Bones,SXSW 2019,3/10/19,Antone's,Austin,TX,37365794,headline
+Jacob Banks,SXSW 2019,3/10/19,Antone's,Austin,TX,37365794,headline
+Tameca Jones,SXSW 2019,3/10/19,Antone's,Austin,TX,37365794,headline
+Cautious Clay,SXSW 2019,3/11/19,,Austin,TX,,headline
+Quivers,SXSW 2019,3/11/19,Cheer Up Charlie's,Austin,TX,37495129,headline
+Angie McMahon,SXSW 2019,3/11/19,,Austin,TX,,headline
+Leikeli47,SXSW 2019,3/12/19,,Austin,TX,,headline
+Fragile Rock,SXSW 2019,3/12/19,,Austin,TX,,headline
+Amanda Palmer,SXSW 2019,3/12/19,,Austin,TX,,headline
+Wyclef Jean,SXSW 2019,3/12/19,,Austin,TX,,headline
+Gina Chavez,SXSW 2019,3/12/19,,Austin,TX,,headline
+Mountain Man,SXSW 2019,3/12/19,,Austin,TX,,headline
+John Paul White,SXSW 2019,3/12/19,,Austin,TX,,headline
+Cautious Clay,SXSW 2019,3/12/19,,Austin,TX,,headline
+Gaelynn Lea,SXSW 2019,3/12/19,,Austin,TX,,headline
+The Beths,SXSW 2019,3/12/19,,Austin,TX,,headline
+Illuminati Hotties,SXSW 2019,3/12/19,,Austin,TX,,headline
+Bad Bad Hats,SXSW 2019,3/12/19,,Austin,TX,,headline
+Disq,SXSW 2019,3/12/19,,Austin,TX,,headline
+Rosie Tucker,SXSW 2019,3/12/19,,Austin,TX,,headline
+Bad Bad Hats,SXSW 2019,3/13/19,,Austin,TX,,headline
+SUSTO,SXSW 2019,3/13/19,,Austin,TX,,headline
+Your Smith,SXSW 2019,3/13/19,,Austin,TX,,headline
+Leikeli47,SXSW 2019,3/13/19,,Austin,TX,,headline
+Tamino,SXSW 2019,3/13/19,,Austin,TX,,headline
+Lizzo,SXSW 2019,3/14/19,Stubbs BBQ,Austin,TX,,headline
+King Princess,SXSW 2019,3/14/19,Stubbs BBQ,Austin,TX,,headline
+Car Seat Headrest,SXSW 2019,3/14/19,Stubbs BBQ,Austin,TX,,headline
+La Force,SXSW 2019,3/14/19,,Austin,TX,,headline
+SYML,SXSW 2019,3/14/19,,Austin,TX,,headline
+CHAI,SXSW 2019,3/14/19,,Austin,TX,,headline
+Bayonne,SXSW 2019,3/14/19,Four Seasons Hotel Austin,Austin,TX,37392769,headline
+Heart Bones,SXSW 2019,3/14/19,Four Seasons Hotel Austin,Austin,TX,37392769,headline
+Hala,SXSW 2019,3/15/19,Esther's Follies,Austin,TX,37312699,headline
+Japanese Breakfast,SXSW 2019,3/15/19,,Austin,TX,,headline
+Broken Social Scene,SXSW 2019,3/15/19,Convention Center (Radio Day Stage),Austin,TX,37485019,headline
+Jealous of the Birds,SXSW 2019,3/15/19,Convention Center (Radio Day Stage),Austin,TX,37485019,headline
+Black Pumas,SXSW 2019,3/15/19,Convention Center (Radio Day Stage),Austin,TX,37485019,headline
+Fatai,,4/2/19,The Red Room at Cafe 939,Boston,MA,36806569,headline
+Emily King,,4/7/19,The Sinclair,Cambridge,MA,36994479,headline
+SUSTO,,4/17/19,Great Scott,Boston,MA,37075114,headline
+Frances Cone,,4/17/19,Great Scott,Boston,MA,36643134,headline
+Damien Jurado,,5/14/19,Great Scott,Boston,MA,37170149,headline
+Cub Sport,,5/22/19,The Red Room at Cafe 939,Boston,MA,38133439,headline
+Rooney,,6/12/19,The Red Room at Cafe 939,Boston,MA,37686874,headline
+The National,,6/20/19,Thompsons Point,Portland,ME,37482484,headline
+Courtney Barnett,,6/20/19,Thompsons Point,Portland,ME,37482484,support
+Proxima Parada,,7/11/19,Thunder Road,Somerville,MA,38009379,headline
+Carly Rae Jepsen,,7/16/19,House of Blues,Boston,MA,37852759,headline
+Ben Folds,,8/3/19,Rockland Trust Bank Pavilion,Boston,MA,37470549,headline
+Violent Femmes,,8/3/19,Rockland Trust Bank Pavilion,Boston,MA,37470549,headline
+Sir Woman,,8/7/19,Middle East - Upstairs,Cambridge,MA,38955314,headline
+Wilder Woods,,8/9/19,The Sinclair,Cambridge,MA,38685744,headline
+Rainbow Kitten Surprise,,9/17/19,House of Blues,Boston,MA,38587294,headline
+Orville Peck,,9/19/19,The Sinclair,Cambridge,MA,38377044,headline
+Shakey Graves,,9/20/19,Rockland Trust Bank Pavilion,Boston,MA,37147534,headline
+Dr. Dog,,9/20/19,Rockland Trust Bank Pavilion,Boston,MA,37147534,headline
+San Fermin,,10/17/19,The Sinclair,Boston,MA,38954275,headline
+Hozier,,11/12/19,Wang Theatre,Boston,MA,38851734,headline
+Angie McMahon,,11/12/19,Wang Theatre,Boston,MA,38851734,support
+Beach Bunny,,11/20/19,Great Scott,Boston,MA,39081220,headline
+Lucy Dacus,,12/4/19,Royale,Boston,MA,39128328,headline
+Haley Heynderickx,,12/4/19,Royale,Boston,MA,39128328,support
+Michael Kiwanuka,,2/11/20,Royale,Boston,MA,39193835,headline
